@@ -81,6 +81,6 @@ Desenvolvedor Backend com foco em Java e Spring Boot, especializado na construç
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lrdns)  
-📧 lucas.rochadnsx@email.com  
+📧 lucas.rochadnsx@gmail.com  
 
 ✨ Obrigado por visitar meu GitHub!
