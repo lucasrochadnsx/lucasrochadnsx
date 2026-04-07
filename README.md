@@ -1,8 +1,8 @@
 #  [<img src="https://img.icons8.com/?size=100&id=H1TKqeNpWLQj&format=png&color=000000" alt="GitHub" width="30"/>](https://github.com) Lucas Rocha
 
 💻 **Desenvolvedor Backend Java** | APIs REST | Spring Boot | Docker | PostgreSQL  
-
-Desenvolvedor Backend com foco em Java e Spring Boot, especializado na construção de APIs REST seguras e escaláveis. Tenho experiência prática no desenvolvimento de sistemas com autenticação JWT, integração com banco de dados PostgreSQL e deploy em ambiente Docker. Recentemente desenvolvi um sistema completo de gerenciamento de usuários, incluindo autenticação, autorização e persistência de dados, aplicando boas práticas de arquitetura e segurança.
+---
+### Desenvolvedor Backend com foco em Java e Spring Boot, especializado na construção de APIs REST seguras e escaláveis. Tenho experiência prática no desenvolvimento de sistemas com autenticação JWT, integração com banco de dados PostgreSQL e deploy em ambiente Docker. Recentemente desenvolvi um sistema completo de gerenciamento de usuários, incluindo autenticação, autorização e persistência de dados, aplicando boas práticas de arquitetura e segurança.
 ---
 
 ## 🚀 Sobre mim
